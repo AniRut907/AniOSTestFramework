@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "AniOSTestFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.2"
   spec.summary      = "This is test framework, needs to learn and implement new features in it."
 
   # This description is used to generate tags and improve search results.
@@ -51,9 +51,8 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  # spec.author             = { "Aniket Lokhande" => "Aniket.Lokhande@extentia.com" }
-    spec.author    = "Aniket Lokhande"
-  # spec.authors            = { "Aniket Lokhande" => "Aniket.Lokhande@extentia.com" }
+    spec.author             = { "Aniket Lokhande" => "AniRut907@gmail.com.com" }
+   
   # spec.social_media_url   = "https://twitter.com/Aniket Lokhande"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
